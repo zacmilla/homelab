@@ -55,7 +55,7 @@ See [VLAN Registry](../networking/vlan-registry.md) for full segmentation detail
 |----------------|----------|-----------------|-------------------------|
 | SSD (internal) | 256 GB   | pve-whitewalker | Proxmox boot, VM disks  |
 | HDD (internal) | 1 TB     | pve-whitewalker | LXC storage             |
-| LaCie USB HDD  | 8 TB     | pve-whitewalker | Media library (Jellyfin)|
+| LaCie USB HDD  | 8 TB     | pve-whitewalker | Media library (Plex)|
 
 ---
 
